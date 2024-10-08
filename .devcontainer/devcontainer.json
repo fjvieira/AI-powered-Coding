@@ -1,0 +1,28 @@
+{
+	"name": "AI-Powered-Coding-Java",
+	"image": "mcr.microsoft.com/devcontainers/java:21",
+
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/maven-sdkman:2": {},
+		"ghcr.io/devcontainers-contrib/features/mvnd-sdkman:2": {}	
+	},
+	
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "git config --global --add safe.directory /workspaces/$(basename `pwd`) && chmod +x ./gradlew",
+
+	// Configure tool-specific properties.
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
+			]
+		}
+	}
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
