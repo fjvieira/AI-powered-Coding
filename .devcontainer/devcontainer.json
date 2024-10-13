@@ -19,7 +19,10 @@
 			"extensions": [
 				"GitHub.copilot",
 				"GitHub.copilot-chat"
-			]
+			],
+			"settings": {
+				"locale": "en"
+			}
 		}
 	}
 
