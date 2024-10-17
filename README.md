@@ -24,7 +24,12 @@ repository, ensuring you select the correct branch before proceeding.
   - [A](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\explain\A.cs)
   - [B](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\explain\B.cs)
 - Write:
-  - [DNA](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\write\DNA.cs)
-  - [LoyaltyProgram](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\write\LoyaltyProgram.cs)
+  - [DNA](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\write\DNA.cs) and [DNATest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\write\DNATest.cs)
+  - [LoyaltyProgram](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\write\LoyaltyProgram.cs) and [LoyaltyProgramTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\write\LoyaltyProgramTest.cs)
 - Unit testing:
   - [CarRules](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\unittesting\CarRules.cs) and [CarRulesTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\unittesting\CarRulesTest.cs)
+- TDD:
+  - [SingleStreetController](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\tdd\SingleStreetController.cs) and[SingleStreetControllerTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\tdd\SingleStreetControllerTest.cs)
+  - [RiskAnalisys](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\tdd\RiskAnalisys.cs) and [RiskAnalisysTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\tdd\RiskAnalisysTest.cs)
+  - [LoyaltyProgramRules](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\tdd\LoyaltyProgramRules.cs) and [LoyaltyProgramRulesTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\tdd\LoyaltyProgramRulesTest.cs)
+  - [Insurance](AI-Powered-Coding.App\src\com\fjvieira\aipoweredcoding\tdd\Insurance.cs) and [InsuranceTest](AI-Powered-Coding.Test\test\com\fjvieira\aipoweredcoding\tdd\InsuranceTest.cs)
