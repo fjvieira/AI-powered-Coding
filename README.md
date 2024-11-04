@@ -21,13 +21,13 @@ repository, ensuring you select the correct branch before proceeding.
 ## Exercises
 
 - Explain:
-  - [A](src\main\java\com\fjvieira\aipoweredcoding\explain\A.java)
-  - [B](src\main\java\com\fjvieira\aipoweredcoding\explain\B.java)
+  - [A](src/main/java/com/fjvieira/aipoweredcoding/explain/A.java)
+  - [B](src/main/java/com/fjvieira/aipoweredcoding/explain/B.java)
 - Write:
-  - [DNA](src\main\java\com\fjvieira\aipoweredcoding\write\DNA.java)
-  - [LoyaltyProgram](src\main\java\com\fjvieira\aipoweredcoding\write\LoyalityProgram.java)
+  - [DNA](src/main/java/com/fjvieira/aipoweredcoding/write/DNA.java)
+  - [LoyaltyProgram](src/main/java/com/fjvieira/aipoweredcoding/write/LoyalityProgram.java)
 - Unit testing:
-  - [CarRules](src/main/java/com/fjvieira/aipoweredcoding/unittesting/CarRules.java) and [CarRulesTest](src\test\java\com\fjvieira\aipoweredcoding\unittesting\CarRulesTest.java)
+  - [CarRules](src/main/java/com/fjvieira/aipoweredcoding/unittesting/CarRules.java) and [CarRulesTest](src/test/java/com/fjvieira/aipoweredcoding/unittesting/CarRulesTest.java)
 - TDD:
   - [SingleStreetController](src/main/java/com/fjvieira/aipoweredcoding/tdd/SingleStreetController.java) and [SingleStreetControllerTest](src/test/java/com/fjvieira/aipoweredcoding/tdd/SingleStreetControllerTest.java)
   - [RiskAnalisys](src/main/java/com/fjvieira/aipoweredcoding/tdd/RiskAnalisys.java) and [RiskAnalisysTest](src/test/java/com/fjvieira/aipoweredcoding/tdd/RiskAnalisysTest.java)
