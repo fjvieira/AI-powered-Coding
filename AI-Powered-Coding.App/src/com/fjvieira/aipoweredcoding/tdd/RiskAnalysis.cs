@@ -14,7 +14,7 @@ public enum CreditScore
     High
 }
 
-public enum CompromissedIncome
+public enum CompromisedIncome
 {
     LessThan15Percent,
     MoreThan15Percent,
