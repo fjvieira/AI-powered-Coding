@@ -30,6 +30,6 @@ repository, ensuring you select the correct branch before proceeding.
   - [CarRules](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/unittesting/CarRules.cs) and [CarRulesTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/unittesting/CarRulesTest.cs)
 - TDD:
   - [SingleStreetController](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/tdd/SingleStreetController.cs) and[SingleStreetControllerTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/tdd/SingleStreetControllerTest.cs)
-  - [RiskAnalisys](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/tdd/RiskAnalisys.cs) and [RiskAnalisysTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/tdd/RiskAnalisysTest.cs)
+  - [RiskAnalysis](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/tdd/RiskAnalysis.cs) and [RiskAnalysisTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/tdd/RiskAnalysisTest.cs)
   - [LoyaltyProgramRules](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/tdd/LoyaltyProgramRules.cs) and [LoyaltyProgramRulesTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/tdd/LoyaltyProgramRulesTest.cs)
   - [Insurance](AI-Powered-Coding.App/src/com/fjvieira/aipoweredcoding/tdd/Insurance.cs) and [InsuranceTest](AI-Powered-Coding.Test/test/com/fjvieira/aipoweredcoding/tdd/InsuranceTest.cs)

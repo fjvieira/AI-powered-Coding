@@ -20,7 +20,7 @@ public enum CompromissedIncome
     MoreThan15Percent,
 }
 
-public class RiskAnalisys
+public class RiskAnalysis
 {
 
 

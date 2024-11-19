@@ -1,7 +1,7 @@
 namespace com.fjvieira.aipoweredcoding.tdd;
 
 [TestFixture]
-public class RiskAnalisysTest
+public class RiskAnalysisTest
 {
 
     [SetUp]
@@ -12,6 +12,7 @@ public class RiskAnalisysTest
     [Test]
     public void Test()
     {
+        RiskAnalysis riskAnalysis = new RiskAnalysis();
         Assert.Pass();
     }
 
