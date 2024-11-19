@@ -1,6 +1,6 @@
 package com.fjvieira.aipoweredcoding.tdd;
 
-public class RiskAnalisys {
+public class RiskAnalysis {
 
     public enum LoanRisk {
         Low,
@@ -14,7 +14,7 @@ public class RiskAnalisys {
         High
     }
 
-    public enum CompromissedIncome {
+    public enum CompromisedIncome {
         LessThan15Percent,
         MoreThan15Percent,
     }

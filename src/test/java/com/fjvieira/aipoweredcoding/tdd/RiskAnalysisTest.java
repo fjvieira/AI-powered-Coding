@@ -2,10 +2,10 @@ package com.fjvieira.aipoweredcoding.tdd;
 
 import org.junit.jupiter.api.Test;
 
-public class RiskAnalisysTest {
+public class RiskAnalysisTest {
 
     @Test
     public void test() {
-        RiskAnalisys analisys = new RiskAnalisys();
+        RiskAnalysis analysis = new RiskAnalysis();
     }
 }
